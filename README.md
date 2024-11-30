@@ -10,5 +10,6 @@ Tel. : 091-828-0326
 
 **Work** <br>
 Week 1 : [parity-bits.md](parity-bits.md)
+<br> https://teerakorn47.github.io/parity-bits
 
 ![me](IMG_4607.jpeg)
