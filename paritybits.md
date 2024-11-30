@@ -1,8 +1,6 @@
 **Keyword : “Parity bits”**
 
-| **หัวข้อ**       | ** แหล่งที่มา: CISSP Glossary - Student Guide
-https://www.isc2.org/certifications/cissp/cissp-student-glossary **                                                                                                       | ** แหล่งที่มา: NIST Glossary
-https://csrc.nist.gov/glossary **                                                                                                                                   |
+| **หัวข้อ**       | **แหล่งที่มา: CISSP Glossary - Student Guide**                                                                                                       | **แหล่งที่มา: NIST Glossary**                                                                                                                                   |
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **คำอธิบาย**     | RAID technique; logical mechanism used to mark striped data; allows recovery of missing drive(s) by pulling data from adjacent drives. | A checksum computed on a block of bits by summing the individual bits in the block, then discarding all but the low-order bit of the sum. See checksum.   |
 | **คำแปล (ChatGPT)** | "กลไกทางตรรกะที่ใช้ในการทำเครื่องหมายข้อมูลแบบแบ่งแถบ (striped data); ช่วยให้สามารถกู้คืนไดรฟ์ที่สูญหายได้ โดยดึงข้อมูลจากไดรฟ์ที่อยู่ติดกัน"   | "Checksum ที่ถูกคำนวณบนบล็อกของบิต โดยการคำนวณผลรวมแบบไบนารีของบิตแต่ละตัวในบล็อก แล้วทิ้งบิตทั้งหมดที่อยู่นอกเหนือจากบิตลำดับต่ำสุดของผลรวมออกไป"    |
