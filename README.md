@@ -8,4 +8,3 @@ Line : Yumasskrub
 Email : Teerakornyaslu@gmail.com
 
 ![me](IMG_4607.jpeg)
-
