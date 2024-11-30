@@ -3,8 +3,8 @@
 **Name :Teerakorn Tungwattanakit**
 **Nickname : U**
 
-**Contact** \n
-Line : Yumasskrub \n
+**Contact** /n
+Line : Yumasskrub /n
 Email : Teerakornyaslu@gmail.com
 
 ![me](IMG_4607.jpeg)
