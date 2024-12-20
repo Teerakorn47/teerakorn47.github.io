@@ -1,2 +1,2 @@
 
-![New Year Card](image/ChristmasCard(Encod).jpg)
+![New Year Card](image/ChristmasCard(Encode).jpg)
