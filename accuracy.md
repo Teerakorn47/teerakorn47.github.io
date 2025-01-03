@@ -2,7 +2,7 @@
 
 #### **Tibco:**  
 > *Consistency is necessary to ensure a singular value across all channels. Accuracy, on the other hand, deals with those values being correct and reflective of the reality that the data represents. If this is a problem, the use of robotics to enter data can remove human error.*  
-[🔗 By Tibco](https://www.tibco.com/glossary/what-is-data-quality)  
+[🔗 Source By Tibco](https://www.tibco.com/glossary/what-is-data-quality)  
 
 #### **ChatGPT:**  
 > *ความสอดคล้อง (Consistency) จำเป็นเพื่อให้มั่นใจว่าค่าที่ได้จะเหมือนกันในทุกช่องทาง ในขณะที่ความแม่นยำ (Accuracy) เกี่ยวข้องกับการที่ค่านั้นถูกต้องและสะท้อนถึงความเป็นจริงที่ข้อมูลนั้นแสดงออกมา หากมีปัญหานี้ การใช้หุ่นยนต์ในการป้อนข้อมูลสามารถช่วยลดข้อผิดพลาดจากมนุษย์ได้*  
