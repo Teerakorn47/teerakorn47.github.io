@@ -54,6 +54,14 @@
 ![game](image/IMG_9630.jpeg)
 
 ---
+### 🏆 **สมาชิกกลุ่ม Habung**  
+
+| 👤 ชื่อสมาชิก |
+|--------------|
+| **[Panumas Chathaisong](https://panumastt1.github.io/boardgame)** |
+| **[Manitchaya Benjajuedsiri](https://manitchaya2004.github.io/boardgame)** |
+| **[Auksara Suwannawayak](https://auksaraaa.github.io/board-games)** |
+| **[Addeen Salahsakul](https://itzdeenzxx.github.io/boardgame)** |
 
 ---
 
