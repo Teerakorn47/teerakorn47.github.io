@@ -1,1 +1,17 @@
 theme: jekyll-theme-midnight
+
+# Custom CSS
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+# Custom Style
+custom_css: styles.css
