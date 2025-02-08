@@ -1,17 +1,19 @@
+# กำหนดค่าพื้นฐาน
+title: "🌙 Midnight Space"
+description: "Welcome to my dark & elegant corner"
 theme: jekyll-theme-midnight
 
-# Custom CSS
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  syntax_highlighter_opts:
-    css_class: 'highlight'
+# เพิ่ม plugins ที่จำเป็น
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Custom Style
-custom_css: styles.css
+# ตั้งค่าการแสดงผล
+show_downloads: true
+google_analytics: [Your Google Analytics ID]
+
+# ข้อมูลผู้เขียน
+author:
+  name: Your Name
+  email: your.email@example.com
