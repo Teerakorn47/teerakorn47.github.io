@@ -1,9 +1,0 @@
-img {
-  border: 5px solid #ffffff; /* กรอบสีขาว */
-  border-radius: 10px; /* มุมโค้งนิดๆ */
-  box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3); /* เพิ่มเงาเบาๆ */
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 10px auto; /* จัดกึ่งกลาง */
-}
