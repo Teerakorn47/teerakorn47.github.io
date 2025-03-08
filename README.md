@@ -12,6 +12,7 @@ Tel. : 091-828-0326
 📒 Glossary : [parity-bits](parity-bits.md)  <br>
 🦌 Chrismas E-card : [e-card](e-card.md) <br>
 🎯 Accuracy Definition : [accuracy](accuracy.md) <br>
-🎮 board games: [Cyber security board games](board-games.md)
+🎮 board games : [Cyber security board games](board-games.md) <br>
+🔍 Security Requirements : [Security Requirement](security-requirements.md)
 
 ![me](image/IMG_4607.jpeg)
